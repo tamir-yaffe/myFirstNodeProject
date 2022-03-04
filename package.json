@@ -1,0 +1,26 @@
+{
+  "name": "myfirstnodeproject",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamir-yaffe/myFirstNodeProject.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "tamir yaffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamir-yaffe/myFirstNodeProject/issues"
+  },
+  "homepage": "https://github.com/tamir-yaffe/myFirstNodeProject#readme",
+  "dependencies": {
+    "chance": "^1.1.8"
+  }
+}
